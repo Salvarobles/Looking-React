@@ -1,0 +1,1 @@
+# Contexts manejar una entidad como el inicio de un usuario.

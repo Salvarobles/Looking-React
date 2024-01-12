@@ -1,0 +1,1 @@
+# Componentes que manejan el estado de la aplicación
