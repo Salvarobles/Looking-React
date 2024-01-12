@@ -16,7 +16,7 @@ Este proyecto esta dedicado para mi aprendizaje en el curso de 2º de Desarrollo
    - Facilitar la búsqueda y reserva de alojamientos en hoteles.
    - Mejorar la eficiencia del proceso para empresas y clientes.
 
-## 3. Entidades Clave.
+## 3. Entidades.
 ### Empresas:
    - Las empresas pueden registrarse y promocionarse, pero requerirán una verificación por parte del administrador antes de obtener acceso.
    - La información importante para el registro de empresas incluye el CIF, nombre, dirección, ciudad, categoría, servicios ofrecidos y el número de habitaciones disponibles. Proporcionar estos detalles garantiza una presentación completa y precisa de la empresa en nuestra plataforma, facilitando a los clientes una toma de decisiones informada durante su búsqueda y reserva de alojamientos.
