@@ -2,10 +2,17 @@
 ## Proyecto de Simplificación de Búsqueda y Reserva de Alojamientos en Hoteles
 
 ## 1. Introducción:
-   - Breve descripción del proyecto:
-    Este proyecto tiene como objetivo simplificar el proceso de búsqueda y reserva de alojamientos en hoteles a través de una plataforma web intuitiva y eficiente. Se enfoca en dos entidades clave: las empresas que deseen promocionar sus servicios en la plataforma y los clientes que busquen un método simplificado para encontrar y reservar alojamientos. Las empresas pueden organizar detalles como tipos de habitaciones y servicios, mientras que los clientes disfrutan de un proceso de reserva simplificado, con opciones avanzadas de búsqueda. La plataforma busca mejorar la experiencia para ambas partes, ofreciendo ventajas competitivas y promoviendo la eficiencia en la industria de alojamientos.
-    
-   - Importancia de simplificar el proceso de reserva de alojamientos.
+    1.1 Descripcion:
+
+        Este proyecto tiene como objetivo simplificar el proceso de búsqueda y reserva de alojamientos en hoteles a través de una plataforma web intuitiva y eficiente. Se enfoca en dos entidades clave: las empresas que deseen promocionar sus servicios en la plataforma y los clientes que busquen un método simplificado para encontrar y reservar alojamientos. Las empresas pueden organizar detalles como tipos de habitaciones y servicios, mientras que los clientes disfrutan de un proceso de reserva simplificado, con opciones avanzadas de búsqueda. La plataforma busca mejorar la experiencia para ambas partes, ofreciendo ventajas competitivas y promoviendo la eficiencia en la industria de alojamientos.
+
+    1.2 Importancia de este proyecto y el proceso de reserva de alojamientos:
+
+       La simplificación del proceso de reserva de alojamientos es esencial en nuestro proyecto se centra en abordar este desafío de manera efectiva. La facilidad de uso de nuestra aplicación es un pilar fundamental en esta iniciativa. Aquí hay algunas razones clave por las cuales la simplicidad es importante:
+
+
+
+
 
 ## 2. Objetivo del Proyecto:
    - Facilitar la búsqueda y reserva de alojamientos en hoteles.
