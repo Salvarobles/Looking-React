@@ -1,8 +1,10 @@
 # Looking
-# Proyecto de Simplificación de Búsqueda y Reserva de Alojamientos en Hoteles
+## Proyecto de Simplificación de Búsqueda y Reserva de Alojamientos en Hoteles
 
 ## 1. Introducción:
-   - Breve descripción del proyecto.
+   - Breve descripción del proyecto:
+    Este proyecto tiene como objetivo simplificar el proceso de búsqueda y reserva de alojamientos en hoteles a través de una plataforma web intuitiva y eficiente. Se enfoca en dos entidades clave: las empresas que deseen promocionar sus servicios en la plataforma y los clientes que busquen un método simplificado para encontrar y reservar alojamientos. Las empresas pueden organizar detalles como tipos de habitaciones y servicios, mientras que los clientes disfrutan de un proceso de reserva simplificado, con opciones avanzadas de búsqueda. La plataforma busca mejorar la experiencia para ambas partes, ofreciendo ventajas competitivas y promoviendo la eficiencia en la industria de alojamientos.
+    
    - Importancia de simplificar el proceso de reserva de alojamientos.
 
 ## 2. Objetivo del Proyecto:
