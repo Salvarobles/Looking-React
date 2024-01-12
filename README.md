@@ -1,57 +1,51 @@
+
+# *(Documento en Desarrollo)*
 # Looking
-## Proyecto de Simplificación de Búsqueda y Reserva de Alojamientos en Hoteles
 
-## 1. Introducción:
+## 1. Introducción.
 
-### 1.1 Descripcion:
+### 1.1 Descripcion.
 
-Este proyecto tiene como objetivo simplificar el proceso de búsqueda y reserva de alojamientos en hoteles a través de una plataforma web intuitiva y eficiente. Se enfoca en dos entidades clave: las empresas que deseen promocionar sus servicios en la plataforma y los clientes que busquen un método simplificado para encontrar y reservar alojamientos. Las empresas pueden organizar detalles como tipos de habitaciones y servicios, mientras que los clientes disfrutan de un proceso de reserva simplificado, con opciones avanzadas de búsqueda. La plataforma busca mejorar la experiencia para ambas partes, ofreciendo ventajas competitivas y promoviendo la eficiencia en la industria de alojamientos.
+Este proyecto tiene como objetivo simplificar el proceso de búsqueda y reserva de alojamientos en hoteles a través de una plataforma web intuitiva y eficiente. Se enfoca en dos entidades clave: las *empresas* que deseen promocionar sus servicios en la plataforma y los *clientes* que busquen un método simplificado para encontrar y reservar alojamientos. Las empresas pueden organizar detalles como tipos de habitaciones y servicios, mientras que los clientes disfrutan de un proceso de reserva simplificado, con opciones avanzadas de búsqueda. La aplicacion busca la sencillez para  la experiencia para ambas partes.
 
-### 1.2 Importancia de este proyecto y el proceso de reserva de alojamientos:
+### 1.2 Importancia de este proyecto.
 
-La simplificación del proceso de reserva de alojamientos es esencial en nuestro proyecto se centra en abordar este desafío de manera efectiva. La facilidad de uso de nuestra aplicación es un pilar fundamental en esta iniciativa.
+Este proyecto esta dedicado para mi aprendizaje en el curso de 2º de Desarrollo de Aplicaciones Web (DAW). Proporciona práctica para aplicar conocimientos teóricos, desarrollar habilidades y experimentar un proyecto completo. Se plantea como algo sencillo, tiene funcionalidades utiles que garantiza un ejercicio práctico. 
 
-
-
-
-## 2. Objetivo del Proyecto:
+## 2. Objetivos del Proyecto.
    - Facilitar la búsqueda y reserva de alojamientos en hoteles.
    - Mejorar la eficiencia del proceso para empresas y clientes.
 
-## 3. Entidades Clave:
-### Empresas Anunciantes:
-   - Explicación de cómo las empresas pueden promocionarse en la plataforma.
-   - Beneficios para las empresas al utilizar la plataforma.
-   - Ejemplos de información que las empresas pueden organizar, como tipos de habitaciones, servicios ofrecidos, etc.
+## 3. Entidades Clave.
+### Empresas:
+   - Las empresas pueden registrarse y promocionarse, pero requerirán una verificación por parte del administrador antes de obtener acceso.
+   - La información importante para el registro de empresas incluye el CIF, nombre, dirección, ciudad, categoría, servicios ofrecidos y el número de habitaciones disponibles. Proporcionar estos detalles garantiza una presentación completa y precisa de la empresa en nuestra plataforma, facilitando a los clientes una toma de decisiones informada durante su búsqueda y reserva de alojamientos.
 
 ### Clientes:
-   - Descripción de cómo los clientes pueden utilizar la plataforma para encontrar y reservar alojamientos.
-   - Destacar la facilidad de uso y la amplia gama de opciones disponibles.
+   - Los clientes registrados pueden reservar alojamientos especificando el destino, fechas de entrada/salida, y además, tienen la opción de valorar los alojamientos. También cuentan con un filtro de búsqueda avanzado para personalizar su búsqueda según sus preferencias.
 
-## 4. Funcionalidades Destacadas:
-### Búsqueda Avanzada:
-   - Explicación de cómo los clientes pueden refinar su búsqueda según sus preferencias.
-   - Ejemplos de criterios de búsqueda, como ubicación, precio, comodidades, etc.
+## 4. Funcionalidades Destacadas.
+### Búsqueda:
+   - Los clientes cuentan con una búsqueda estándar que consiste en un formulario con destino, fecha de entrada y salida. Además de esta búsqueda básica, ofrecemos una búsqueda avanzada con categorías que incluyen Hotel, Casa, Apartamento, Escapadas Rurales, Escapada en Familia, Escapada con Amigos y Mejor Valorado.
 
-### Reservas Simplificadas:
-   - Detalles sobre cómo el proceso de reserva se simplifica para los clientes.
-   - Mencionar la posibilidad de organizar detalles específicos, como solicitudes de habitaciones.
+### Reservas:
+   - Una vez que el cliente ha decidido realizar la reserva, se dirigirá al proceso de pago. Después de confirmar la reserva, recibirá un mensaje de éxito y el alojamiento seleccionado le proporcionará la información sobre el número de habitación, hora de entrada y salida a dicho cliente.
 
-## 5. Ventajas Competitivas:
-   - Comparación con otras plataformas existentes.
-   - Destacar por qué tu plataforma es única y beneficiosa para empresas y clientes.
-
-## 6. Ejemplo de Uso:
+## 5. Ejemplo de Uso.
    - Narrar un escenario de cómo un cliente y una empresa podrían interactuar y beneficiarse mutuamente en la plataforma.
 
-## 7. Desarrollo Técnico:
-   - Breve visión de la arquitectura técnica de la plataforma.
-   - Tecnologías clave utilizadas.
+   - Cliente:
+      -  Página de inicio o de registro.
+      ![Alt text](/src/assets/img/readme/image.png)
+      ![Alt text](/src/assets/img/readme/image2.png)
+      
+      - En la página principal o 'main', encontrarás un menú que incluirá exclusivamente la opción de 'Alojamientos'. Además, debajo, tendrás acceso a una búsqueda avanzada, las ciudades más visitadas y detalles sobre nuestra aplicación.
+      ![Alt text](/src/assets/img/readme/image3.png)
 
-## 8. Perspectivas Futuras:
-   - Posibles expansiones o mejoras.
-   - Estrategias de crecimiento.
+      - En la página de alojamientos, tenemos acceso tanto a la búsqueda avanzada como a los resultados.
+       ![Alt text](/src/assets/img/readme/image4.png)
 
-## 9. Conclusión:
-   - Recapitulación de los objetivos del proyecto.
-   - Invitación a preguntas y discusiones.
+      *(NO ESTA TERMINADO)*
+   - Empresa:
+
+      *(NO ESTA TERMINADO)*
